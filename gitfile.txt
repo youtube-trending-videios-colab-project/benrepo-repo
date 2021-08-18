@@ -4,5 +4,6 @@ second commit
 poonam s
 third commit
 editing file using vi file-name
-
+forth commit
+nano edtor got failed
 
